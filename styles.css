@@ -1,0 +1,15 @@
+.dia {
+  background: lightskyblue;
+}
+.tarde {
+  background: lightcoral;
+}
+.noite {
+  background: grey;
+}
+.clock-container {
+  padding: 0 40%;
+  margin-top: 200px;
+  font-family: "Lucida Sans", Verdana, sans-serif;
+  font-size: 4rem;
+}
